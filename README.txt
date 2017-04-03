@@ -2,7 +2,7 @@
 Directed Automated Gating (DAG)
 August 5, 2015
 
-Rick Stanton (rstanton@humanlongevity.com)
+Rick Stanton (rstanton@humanlongevity.com) - Lead Developer
 Alexandra Lee (alee@jcvi.org)
 Yu "Max" Qian (mqian@jcvi.org)
 Richard H. Scheuermann (rscheuermann@jcvi.org)
